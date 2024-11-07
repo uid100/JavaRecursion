@@ -42,7 +42,7 @@ Compound interest is the the way that interest is calculated on bank accounts an
 
 For these challenges assume that interest is added once a year. The formulas that we are going to use are:
 
-     ![compound interest](./images/compound_interest.jpg)
+![compound interest](./images/compound_interest.jpg)
 
 The _interestRate_ is the rate at which money is added to the balance each year. For instance, the US stock market has an average effective interest rate of 7% per year since 1950, while the actual interest rate on a saving account in a bank currently is around 0.03%.
 
@@ -50,7 +50,7 @@ Logistic growth is a model for population growth which takes into account the si
 
 The formulas that we are going to use are:
 
-     ![logistic_growth](./images/logistic_growth.jpg)
+![logistic_growth](./images/logistic_growth.jpg)
 
 The _growthRate_ is similar to the interest rate above. It can start at any number between 0 and 1. 
 
