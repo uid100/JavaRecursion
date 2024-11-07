@@ -21,7 +21,7 @@ With contributions from:
 - [Dan Sullivan](https://github.com/uid100)
 
 [source](#source)
-<hr />
+
 </details>
 
 <details id="overview">
@@ -43,14 +43,16 @@ Compound interest is the the way that interest is calculated on bank accounts an
 > "Compound interest is the addition of interest to the principal sum of a loan or deposit, or in other words, interest on interest. It is the result of reinvesting interest, rather than paying it out, so that interest in the next period is then earned on the principal sum plus previously accumulated interest. " [Wikipedia: Compound interestLinks to an external site.](https://en.wikipedia.org/wiki/Compound_interest)
 
 For these challenges assume that interest is added once a year. The formulas that we are going to use are:
-![compound interest](compound_interest.jpg)
+
+     ![compound interest](compound_interest.jpg)
 
 The _interestRate_ is the rate at which money is added to the balance each year. For instance, the US stock market has an average effective interest rate of 7% per year since 1950, while the actual interest rate on a saving account in a bank currently is around 0.03%.
 
 Logistic growth is a model for population growth which takes into account the size of the population and the resources available to the population. For instance, when a population of bacteria grows, they eat of the nutrients in the environment, and when there is not enough nutrients bacteria diminish. [Mathispower4u: Logistic Growth: Using Recursive Equations](https://www.youtube.com/watch?v=E2REyozXL3Y) and [Khan Academy: Exponential & logistic growth](https://www.khanacademy.org/science/ap-biology/ecology-ap/population-ecology-ap/a/exponential-logistic-growth)
 
 The formulas that we are going to use are:
-![logistic_growth](logistic_growth.jpg)
+
+     ![logistic_growth](logistic_growth.jpg)
 
 The _growthRate_ is similar to the interest rate above. It can start at any number between 0 and 1. 
 
@@ -58,7 +60,6 @@ Note: populations are whole numbers (so which data type would be correct to use?
 
 </details>
    
-<hr />
 </details>
 
 <details id="instructions">
