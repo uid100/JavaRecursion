@@ -20,8 +20,6 @@ With contributions from:
 - Dom David,
 - [Dan Sullivan](https://github.com/uid100)
 
-[source](#source)
-
 </details>
 
 <details id="overview">
@@ -44,7 +42,7 @@ Compound interest is the the way that interest is calculated on bank accounts an
 
 For these challenges assume that interest is added once a year. The formulas that we are going to use are:
 
-     ![compound interest](images/compound_interest.jpg)
+     ![compound interest](./images/compound_interest.jpg)
 
 The _interestRate_ is the rate at which money is added to the balance each year. For instance, the US stock market has an average effective interest rate of 7% per year since 1950, while the actual interest rate on a saving account in a bank currently is around 0.03%.
 
@@ -52,7 +50,7 @@ Logistic growth is a model for population growth which takes into account the si
 
 The formulas that we are going to use are:
 
-     ![logistic_growth](images/logistic_growth.jpg)
+     ![logistic_growth](./images/logistic_growth.jpg)
 
 The _growthRate_ is similar to the interest rate above. It can start at any number between 0 and 1. 
 
@@ -87,13 +85,8 @@ Note: populations are whole numbers (so which data type would be correct to use?
    
    The challenge is complete when you have all tests succeeding.
 
- [setup](#setup)
- 
- <hr />
 </details>
 
-[programming-tasks](#programming-tasks)
- <hr />
 </details>
 
 <details id=submission>
@@ -111,8 +104,6 @@ as needed for the tests to pass.
 4. Export the project as a zip file and submit your work.
    _Note: You are turning in the Eclipse project so that I can easily open it and run it on my computer._
 
-     [submission](#submission)
- <hr />
 </details>
 
 <details>
