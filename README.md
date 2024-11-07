@@ -102,6 +102,7 @@ as needed for the tests to pass.
     - update the javadoc comments at the top of the file to add your name as author
     - update the comments for each method in the file.
 4. Export the project as a zip file and submit your work.
+
    _Note: You are turning in the Eclipse project so that I can easily open it and run it on my computer._
 
 </details>
@@ -114,7 +115,7 @@ as needed for the tests to pass.
 </details>
 
 
-___________
+
 
 _this repository is a subset of the CISC191 exercises. It is derived from the CISC191ProgrammingChallenges 
 activity hosted by Professor Allan Schougaard, San Diego Mesa College, and not a direct fork._
