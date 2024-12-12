@@ -41,7 +41,7 @@ class TestRecursion
 //		assertEquals(3*2, Recursion.multiplyLess(3));
 //		assertEquals(100*Recursion.multiplyLess(99), Recursion.multiplyLess(100));
 //	}
-	
+//	
 //	@Test
 //	void testLucasNumbers()
 //	{
@@ -61,8 +61,8 @@ class TestRecursion
 //		assertEquals(4, Recursion.lucas(3));
 //		assertEquals(76, Recursion.lucas(9));
 //	}
-	
-	
+//	
+//	
 //	@Test
 //	void testNextCollatzNumber()
 //	{
@@ -82,7 +82,7 @@ class TestRecursion
 //		assertEquals(10, Recursion.nextCollatzNumber(3));   // 3n+1
 //		assertEquals(178, Recursion.nextCollatzNumber(59)); // 3n+1
 //	}
-
+//
 //	@Test
 //	void testCollatzList()
 //	{
@@ -131,7 +131,7 @@ class TestRecursion
 //		assertEquals(list29, Recursion.collatzList(29));
 //		assertEquals(19, Recursion.collatzList(29).size());
 //	}
-
+//
 //	@Test
 //	void testCalculateBalance()
 //	{
@@ -150,7 +150,7 @@ class TestRecursion
 //		// What will a savings account do with $100 over 30 years:
 //		assertEquals(100.90, Recursion.calculateEndBalance(100.00, 0.0003, 30), 0.01);
 //	}
-
+//
 //	@Test
 //	void testCalculatePopulation()
 //	{
@@ -179,7 +179,7 @@ class TestRecursion
 //		assertEquals(9980, Recursion.calculateEndPopulation(2000, 10000, 0.05, 1000));
 //		assertEquals(9980, Recursion.calculateEndPopulation(2000, 10000, 0.05, 5000));
 //	}
-	
+//	
 //	@Test
 //	public void testNameNode()
 //	{
@@ -243,7 +243,7 @@ class TestRecursion
 //		assertEquals("R", rootNode.getRight().getLeft().getName());
 //		assertEquals("Z", rootNode.getRight().getRight().getName());
 //	}
-	
+//	
 //	@Test void testFirstName()
 //	{
 //		// Hint: where in the tree is the lowest letter in alphabetical order found?
@@ -265,7 +265,7 @@ class TestRecursion
 //		s.setLeft(r);
 //		assertEquals("A", rootNode.getFirstName());
 //	}
-
+//
 //	@Test void testGetLastName()
 //	{
 //		// Hint: where in the tree is the highest letter in alphabetical order found?
@@ -287,7 +287,7 @@ class TestRecursion
 //		s.setLeft(r);
 //		assertEquals("Z", rootNode.getLastName());
 //	}
-	
+//	
 //	@Test void testToString()
 //	{
 //		// Hint: Recursively call toString on the NameNodes
@@ -334,7 +334,7 @@ class TestRecursion
 //		// Hint:
 //		assertEquals("AHMRSZ", rootNode.getLeft().toString() + rootNode.getName() + rootNode.getRight().toString());
 //	}
-	
+//	
 //	@Test
 //	public void testInsert()
 //	{
